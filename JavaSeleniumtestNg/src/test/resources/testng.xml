@@ -3,9 +3,10 @@
 <suite name="MyArtifactSuite"
        thread-count="3"
        parallel="methods">
+       
   <test name="AllSuites">
     <packages>
-      <package name=".*"/>
+      <package name="shankar module"/>
     </packages>
   </test>
 </suite>
