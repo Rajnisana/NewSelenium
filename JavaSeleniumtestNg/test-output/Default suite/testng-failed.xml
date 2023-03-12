@@ -3,12 +3,11 @@
 <suite parallel="none" name="Failed suite [Default suite]">
   <test parallel="none" name="Default test(failed)">
     <classes>
-      <class name="MyTest.JavaSeleniumtestNg.Program1">
+      <class name="com.raj.testData.testLogin">
         <methods>
-          <include name="verify"/>
-          <include name="setUp"/>
+          <include name="loginpage"/>
         </methods>
-      </class> <!-- MyTest.JavaSeleniumtestNg.Program1 -->
+      </class> <!-- com.raj.testData.testLogin -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
